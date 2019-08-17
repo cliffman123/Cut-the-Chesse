@@ -1,9 +1,9 @@
 # Cut-the-Chesse
-Anthony's Game
+Anthony's Game \n
 
-This is a personal project that me and friends are working on.
-Controls:
-Arrow Keys: To Move
-Z Key = Jump
-X Key = Attack
+This is a personal project that me and friends are working on.\n
+Controls:\n
+Arrow Keys: To Move\n
+Z Key = Jump\n
+X Key = Attack\n
 C Key = Dash
